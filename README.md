@@ -116,29 +116,12 @@ Akses di browser:
 http://127.0.0.1:8000
 ```
 
----
-
-## 📊 Contoh Alur Bisnis
-
-- 1 Trip = 5 Penumpang
-- Harga per penumpang = Rp150.000
-- Total = Rp750.000
-- Setoran driver = Rp100.000
-- Pendapatan driver = Rp650.000
-
----
-
-## 📷 Screenshot
-
-_(Tambahkan screenshot di sini)_
-
----
-
 ## 👨‍💻 Tim Pengembang
 
-- Nama Kamu
-- Nama Teman 1
-- Nama Teman 2
+- Rayhan Ramadhan
+- Rayfo Huda
+- Kevin Maulana
+- Nayasha Ananda Risdi
 
 ---
 
